@@ -8,3 +8,15 @@ Command Trigger | Usage
 ----------------|------
 /rules | sends the list of rules into the chat where the command has been executed
 /commands | sends a (hopefully) ephmeral message with a link to this article to the executor
+
+These are the commands that require the ```ryan.user.role.artist``` permission:
+
+These are the commands that require the ```ryan.user.role.t2artist``` permission:
+
+These are the commands that require the ```ryan.user.role.member_management``` permission:
+
+These are the commands that require the ```ryan.user.role.chief_member_management``` permission:
+
+These are the commands that require the ```ryan.user.role.moderator``` permission:
+
+These are the commands that require the ```ryan.user.role.administrator``` permission:
