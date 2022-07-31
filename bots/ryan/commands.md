@@ -7,3 +7,4 @@ These are the commands that require the ```ryan.user.role.checkedin``` permissio
 Command Trigger | Usage 
 ----------------|------
 /rules | sends the list of rules into the chat where the command has been executed
+/commands | sends a (hopefully) ephmeral message with a link to this article to the executor
