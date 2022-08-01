@@ -18,5 +18,9 @@ These are the commands that require the ```ryan.user.role.member_management``` p
 These are the commands that require the ```ryan.user.role.chief_member_management``` permission:
 
 These are the commands that require the ```ryan.user.role.moderator``` permission:
+Command Trigger | Usage 
+----------------|------
+/warn | Warns a user via private chat
+/clear | Clears messages from the channel the command has been executed in
 
 These are the commands that require the ```ryan.user.role.administrator``` permission:
